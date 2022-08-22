@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zack Wellborn's Github Repository
 
 You can use the [editor on GitHub](https://github.com/ZackWellborn/A3ProgrammingPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
