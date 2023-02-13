@@ -5,7 +5,7 @@
 ### OOP Calculator
 Graphic based OOP calculator. 
 
-![Running Calculator]()
+![Running Calculator](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/Calculator.png)
 
 [Source Code]()
 
