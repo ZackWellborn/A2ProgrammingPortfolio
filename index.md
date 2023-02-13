@@ -7,7 +7,7 @@ Graphic based OOP calculator.
 
 ![Running Calculator](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/Calculator.png?raw=true)
 
-[Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/calculator)
+[Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/Calculator)
 
 ### SpaceGame
 Epic game of space.
