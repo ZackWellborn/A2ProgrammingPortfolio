@@ -34,3 +34,11 @@ Epic Shape tester that gives surface area and volume calculations for spheres, c
 ![Running ShapeTester](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/ShapeTester.png)
 
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/ShapeTester)
+
+### Pig Latin Translater
+A program that translates any given word directly into Pig Latin. 
+
+![Running Pig Latin Translater](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/PigLatinScreenshot.png)
+
+[Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/PigLatinConverter)
+
