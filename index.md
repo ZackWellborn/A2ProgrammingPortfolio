@@ -13,7 +13,7 @@ Graphic based OOP calculator.
 
 Epic Space Game where you play as a space ship and shoot asteroids!
 
-![Running SpaceGame](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/Space%20Game.png)
+![Running SpaceGame](Images/Space%20Game.png)
 
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/SpaceGame)
 
@@ -21,7 +21,7 @@ Epic Space Game where you play as a space ship and shoot asteroids!
 
 Basic Screen Saver App based off of Microsoft Pipes. 
 
-![Running ScreenSaver](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/ScreenSaver.png)
+![Running ScreenSaver](Images/ScreenSaver.png)
 
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/ScreenSaver)
 
@@ -31,14 +31,14 @@ Basic Screen Saver App based off of Microsoft Pipes.
 
 Epic Shape tester that gives surface area and volume calculations for spheres, cubes, and rectangular pyramids. 
 
-![Running ShapeTester](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/ShapeTester.png)
+![Running ShapeTester](Images/ShapeTester.png)
 
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/ShapeTester)
 
 ### Pig Latin Translater
 A program that translates any given word directly into Pig Latin. 
 
-![Running Pig Latin Translater](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/PigLatinScreenshot.png)
+![Running Pig Latin Translater](Images/PigLatinScreenshot.png)
 
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/PigLatinConverter)
 
