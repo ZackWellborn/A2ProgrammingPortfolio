@@ -13,7 +13,7 @@ Graphic based OOP calculator.
 
 Epic Space Game where you play as a space ship and shoot asteroids!
 
-![Running SpaceGame](Images/Space%20Game.png)
+![Running SpaceGame](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/SpaceGameScreenshot.png)
 
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/SpaceGame)
 
