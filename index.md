@@ -54,7 +54,7 @@ In the shop, click on the buttons shown to buy health pots, daggers, and armor. 
 ### Images
 
 Map View:
-![New Map (Sea)](https://github.com/MisterNo0ne/PythonGroupTwoA2Prog/blob/main/images/New%20Map%20(Sea).png?raw=true)
+![map view](https://github.com/ZackWellborn/A2ProgrammingPortfolio/blob/main/Images/SpellGameMapView.png)
 Castle: 
 ![Castle](https://github.com/MisterNo0ne/PythonGroupTwoA2Prog/assets/111779779/f1f419e4-30fa-4ce3-bd23-15614cc7b793)
 Fight Scene:
