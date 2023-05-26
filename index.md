@@ -3,8 +3,8 @@
 - CTE State Programming certification
 - Python certification
 ### Contact: 
-School: zachwell9679@granitesd.org
-Main: zackwellborn@gmail.com
+School contact: (zachwell9679@granitesd.org)
+Main: (zackwellborn@gmail.com)
 
 ## Programming 1 Semester 1 Projects:
 
