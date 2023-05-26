@@ -51,7 +51,9 @@ A program that translates any given word directly into Pig Latin.
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/PigLatinConverter)
 
 ### Spell Adventure Game
+
 [Group Repository] (https://github.com/MisterNo0ne/PythonGroupTwoA2Prog) 
+
 ### Description
 This game will be a spell based adventure that involves exploring a world, discovering new spells, learning how the elements interact, and fighting enemies. Search the island looking for secrets, knowledge, and special weapons so that you can defeat the final boss! By utilizing type combinations, elemental status effects, and powerful armor plus healing potions, you'll take on multiple bosses across the land, getting loot and new spells in the process. 
 
