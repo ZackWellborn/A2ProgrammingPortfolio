@@ -25,6 +25,14 @@ Basic Screen Saver App based off of Microsoft Pipes.
 
 [Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/ScreenSaver)
 
+### Car Tester
+
+Basic car running program that runs cars across the screen with increasing/decreasing speed and changing color. 
+
+![Running CarTester](Images/cartester.png)
+
+[Source Code](https://github.com/ZackWellborn/A2ProgrammingPortfolio/tree/main/src/CarTester)
+
 ## Programming 2 Semester 2 Projects:
 
 ### ShapeTester
